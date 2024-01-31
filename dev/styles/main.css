@@ -36,11 +36,14 @@ input {
   color: #fff;
   border-bottom: 6px solid #fff;
 }
-.resulado {
+.resultado {
   padding: 16px;
   margin-top: 120px;
   border: 8px dotted #fff;
+  display: none;
 }
-.resulado span {
-  font-size: ;
+.resultado span {
+  font-size: 3em;
+  font-weight: bold;
+  display: block;
 }
